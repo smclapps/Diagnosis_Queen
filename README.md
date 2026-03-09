@@ -17,3 +17,5 @@ Game Center Integration: Compete with friends and colleagues worldwide.
 Beautiful Design: Lovingly crafted characters and smooth gameplay.
 
 Are you ready for your first shift? Download Diagnosis Queen now and kickstart your career!
+
+Contact: smcl.apps@gmail.com
