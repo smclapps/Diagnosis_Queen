@@ -16,6 +16,7 @@ Personal Data: The app does not store personal data on external servers. High sc
 Advertising: In the free version, advertisements are displayed by third-party providers (e.g., Google AdMob). These providers may collect pseudonymized technical data (such as your device's advertising ID) to serve relevant ads.
 In-App Purchases: Transactions are processed via the Apple App Store. We do not have access to your payment data.
 Your Rights: You can restrict ad tracking in the iOS system settings.
+
 Terms:
 
 The app offers in-app purchases to permanently remove advertising.
